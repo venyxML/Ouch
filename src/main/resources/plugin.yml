@@ -1,0 +1,11 @@
+name: Owie
+version: ${project.version}
+main: io.github.venyml.owie.Owie
+api-version: 1.16
+prefix: OWIE
+authors: [ VenyxML ]
+description: Broadcasts to the server any time someone gets hurt, but not whomst
+commands:
+  ow:
+    description: starts and stops the thing
+    usage: /ow <start|stop>
