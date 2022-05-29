@@ -15,9 +15,9 @@ Owie-1.16.5r1.jar
 Owie-1.17.1r1.jar
 ```
 
-!Java 1.18.1
+!Java 1.18.2
 ```
-Owie-1.18.1r1.jar
+Owie-1.18.2r1.jar
 ```
 
 <!-- GETTING STARTED -->
