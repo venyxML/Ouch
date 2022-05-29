@@ -1,5 +1,5 @@
 # Ouch
-A plugin that announcnes when someone gets hurt to the whole server, but doens't say who. Made by request.,
+A plugin that announcnes when someone gets hurt to the whole server, but doens't say who. Made by request.
 
 ## Versions Supported & Tested
 
